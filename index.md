@@ -4,7 +4,7 @@ Pâte fait à la main pour vous offrir les meilleures pizzas depuis 1968. La pâ
 
 ### MENU À LA CARTE
 
-pizza1.jpg
+!pizza1.jpg
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link] pizza1.jpg and !pizza1.jpg(src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
