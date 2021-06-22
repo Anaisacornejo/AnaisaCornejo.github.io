@@ -2,7 +2,7 @@
 
 Pâte fait à la main pour vous offrir les meilleures pizzas depuis 1968. La pâte, la sauce, les garnitures fraiches et généreuses font la renommée de la pizza Milano. Spécialiste de la pizza traditionnelle, nous vous présentons près de 40 variétés incluant un vaste choix de pizza dites gourmet. Chez Milano, nous transformons tous nos produits afin de vous servir que des recettes maison, cuisinés sur place à la saveur Milano. Pâtes, Salades, sandwichs, burgers et encore!
 
-### Markdown
+### MENU À LA CARTE
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
