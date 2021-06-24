@@ -28,9 +28,10 @@ Sauce tomate, mozzarella, champignons, poivrons verts, oignons, olives, brocolis
 ![image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/personpizza.jpg)
 
 
-**À TANTÔT
-222227 rue Saint-Jean, Québec QC**   
+**À TANTÔT**
 
+222227 rue Saint-Jean, Québec QC 
+<!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -60,3 +61,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
