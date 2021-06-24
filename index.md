@@ -5,7 +5,7 @@ Pâte fait à la main pour vous offrir les meilleures pizzas depuis 1968. La pâ
 ### MENU À LA CARTE
 
 img/pizza1.jpg
-
+![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/pizza1.jpg)
 
 ## LES PIZZAS CLASSIQUES
 
@@ -45,7 +45,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link] pizza1.jpg and !pizza1.jpg(src)
-![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/583036480ab5be2417f858c47e02fd3d2f14362d/img/pizza1.jpg)
+![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/pizza1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
