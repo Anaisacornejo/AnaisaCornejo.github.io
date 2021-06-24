@@ -25,7 +25,7 @@ Sauce tomate, mozzarella, champignons, poivrons verts, oignons, olives, brocolis
 12" (2 personnes) **18,25 $**
 18" (4 personnes) **29,50 $**
 
-![image]
+![image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/personpizza.jpg)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
