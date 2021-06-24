@@ -4,7 +4,6 @@ Pâte fait à la main pour vous offrir les meilleures pizzas depuis 1968. La pâ
 
 ### MENU À LA CARTE
 
-img/pizza1.jpg
 ![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/pizza1.jpg)
 
 ## LES PIZZAS CLASSIQUES
@@ -26,6 +25,8 @@ Sauce tomate, mozzarella, champignons, poivrons verts, oignons, olives, brocolis
 12" (2 personnes) **18,25 $**
 18" (4 personnes) **29,50 $**
 
+![image]
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -44,9 +45,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link] pizza1.jpg and !pizza1.jpg(src)
-![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/pizza1.jpg)
-```
+[Link] pizza1.jpg and !image(src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
