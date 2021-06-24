@@ -4,7 +4,7 @@ Pâte fait à la main pour vous offrir les meilleures pizzas depuis 1968. La pâ
 
 ### MENU À LA CARTE
 
-img/pizza1.jpg
+![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/583036480ab5be2417f858c47e02fd3d2f14362d/img/pizza1.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
