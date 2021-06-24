@@ -6,19 +6,25 @@ Pâte fait à la main pour vous offrir les meilleures pizzas depuis 1968. La pâ
 
 img/pizza1.jpg
 
+
 ## LES PIZZAS CLASSIQUES
 
 # La trois fromages
 Sauce tomate, mozzarella, parmesan, cheddar squish squish
-12" (2 personnes) 18,25 $
-18" (4 personnes) 29,50 $
+12" (2 personnes) **18,25 $**
+18" (4 personnes) **29,50 $**
 
 
 # L’hawaïenne
 Sauce tomate, mozzarella, bacon, ananas
-12" (2 personnes) 18,25 $
-18" (4 personnes) 29,50 $
+12" (2 personnes) **18,25 $**
+18" (4 personnes) **29,50 $**
 
+
+# La végée
+Sauce tomate, mozzarella, champignons, poivrons verts, oignons, olives, brocolis, tomates
+12" (2 personnes) **18,25 $**
+18" (4 personnes) **29,50 $**
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
