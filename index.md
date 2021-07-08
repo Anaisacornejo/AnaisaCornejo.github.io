@@ -1,35 +1,51 @@
-## Bienvenue à Pizza Pizza
+## CEliNe DiOr
 
-Pâte fait à la main pour vous offrir les meilleures pizzas depuis 1968. La pâte, la sauce, les garnitures fraiches et généreuses font la renommée de la pizza Milano. Spécialiste de la pizza traditionnelle, nous vous présentons près de 40 variétés incluant un vaste choix de pizza dites gourmet. Chez Milano, nous transformons tous nos produits afin de vous servir que des recettes maison, cuisinés sur place à la saveur Milano. Pâtes, Salades, sandwichs, burgers et encore!
+Recorded originally as a "low budget" project at Bob Blank's Blank Tape Studios[1] in New York City (the tracking session was completed in four hours), the album Keep on Jumpin' contained only four cuts: "Keep on Jumpin'," "Summer Love," "In the Bush" and "Summer Love Theme." Adams, known for his arranging, wrote the horn section parts as the studio musicians sat waiting. Those musicians included Skip McDonald and Doug Wimbish who were among the musicians later responsible for much of the backing work at Sugar Hill Records before teaming up to become known as Tackhead in the 1980s, collaborating with Adrian Sherwood on numerous works on his label ON-U Sound in England.
 
-### MENU À LA CARTE
+### Best seller
 
 ![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/pizza1.jpg)
 
-## LES PIZZAS CLASSIQUES
+## Albums
 
-# La trois fromages
-Sauce tomate, mozzarella, parmesan, cheddar squish squish
-12" (2 personnes) **18,25 $**
-18" (4 personnes) **29,50 $**
-
-
-# L’hawaïenne
-Sauce tomate, mozzarella, bacon, ananas
-12" (2 personnes) **18,25 $**
-18" (4 personnes) **29,50 $**
-
-
-# La végée
-Sauce tomate, mozzarella, champignons, poivrons verts, oignons, olives, brocolis, tomates
-12" (2 personnes) **18,25 $**
-18" (4 personnes) **29,50 $**
-
-![image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/personpizza.jpg)
+# LOrem Ipsum 1
+8.3. Ne me quitte pas. Morceau de Jacques Brel.
+7.9. Mistral gagnant. Morceau de Renaud.
+8.5. Amsterdam (Live) Morceau de Jacques Brel.
+8.7. Ces gens‐là Morceau de Jacques Brel.
+8.5. La nuit, je mens. Morceau de Alain Bashung.
+8.4. Avec le temps. ...
+7.6. La Bohème. ...
+8.0. Hymne à l'amour.
 
 
-**À TANTÔT**
+# LOrem Ipsum 2
+8.3. Ne me quitte pas. Morceau de Jacques Brel.
+7.9. Mistral gagnant. Morceau de Renaud.
+8.5. Amsterdam (Live) Morceau de Jacques Brel.
+8.7. Ces gens‐là Morceau de Jacques Brel.
+8.5. La nuit, je mens. Morceau de Alain Bashung.
+8.4. Avec le temps. ...
+7.6. La Bohème. ...
+8.0. Hymne à l'amour.
 
+
+# LOrem Ipsum 3
+8.3. Ne me quitte pas. Morceau de Jacques Brel.
+7.9. Mistral gagnant. Morceau de Renaud.
+8.5. Amsterdam (Live) Morceau de Jacques Brel.
+8.7. Ces gens‐là Morceau de Jacques Brel.
+8.5. La nuit, je mens. Morceau de Alain Bashung.
+8.4. Avec le temps. ...
+7.6. La Bohème. ...
+8.0. Hymne à l'amour.
+
+![image]
+
+
+**BIENTÔT**
+
+Featuring concert tickets for top tours, festivals and more
 222227 rue Saint-Jean, Québec QC 
 <!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
