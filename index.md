@@ -6,39 +6,41 @@ Recorded originally as a "low budget" project at Bob Blank's Blank Tape Studios[
 
 ![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/Celine1.jpg)
 
-# LOrem Ipsum 1
-8.3. Ne me quitte pas. Morceau de Jacques Brel.
-7.9. Mistral gagnant. Morceau de Renaud.
-8.5. Amsterdam (Live) Morceau de Jacques Brel.
-8.7. Ces gens‐là Morceau de Jacques Brel.
-8.5. La nuit, je mens. Morceau de Alain Bashung.
-8.4. Avec le temps. ...
-7.6. La Bohème. ...
-8.0. Hymne à l'amour.
+# LOrem Ipsum 1 <br>
+8.3. Ne me quitte pas. Morceau de Jacques Brel. <br>
+7.9. Mistral gagnant. Morceau de Renaud.<br>
+8.5. Amsterdam (Live) Morceau de Jacques Brel.<br>
+8.7. Ces gens‐là Morceau de Jacques Brel.<br>
+8.5. La nuit, je mens. Morceau de Alain Bashung.<br>
+8.4. Avec le temps. ...<br>
+7.6. La Bohème. ...<br>
+8.0. Hymne à l'amour. <br>
 
 ![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/album1.jpg)
 
 
 # LOrem Ipsum 2
-8.3. Ne me quitte pas. Morceau de Jacques Brel.
-7.9. Mistral gagnant. Morceau de Renaud.
-8.5. Amsterdam (Live) Morceau de Jacques Brel.
-8.7. Ces gens‐là Morceau de Jacques Brel.
-8.5. La nuit, je mens. Morceau de Alain Bashung.
-8.4. Avec le temps. ...
-7.6. La Bohème. ...
-8.0. Hymne à l'amour.
+8.3. Ne me quitte pas. Morceau de Jacques Brel. <br>
+7.9. Mistral gagnant. Morceau de Renaud.<br>
+8.5. Amsterdam (Live) Morceau de Jacques Brel.<br>
+8.7. Ces gens‐là Morceau de Jacques Brel.<br>
+8.5. La nuit, je mens. Morceau de Alain Bashung.<br>
+8.4. Avec le temps. ...<br>
+7.6. La Bohème. ...<br>
+8.0. Hymne à l'amour. <br>
+
 
 
 # LOrem Ipsum 3
-8.3. Ne me quitte pas. Morceau de Jacques Brel.
-7.9. Mistral gagnant. Morceau de Renaud.
-8.5. Amsterdam (Live) Morceau de Jacques Brel.
-8.7. Ces gens‐là Morceau de Jacques Brel.
-8.5. La nuit, je mens. Morceau de Alain Bashung.
-8.4. Avec le temps. ...
-7.6. La Bohème. ...
-8.0. Hymne à l'amour.
+8.3. Ne me quitte pas. Morceau de Jacques Brel. <br>
+7.9. Mistral gagnant. Morceau de Renaud.<br>
+8.5. Amsterdam (Live) Morceau de Jacques Brel.<br>
+8.7. Ces gens‐là Morceau de Jacques Brel.<br>
+8.5. La nuit, je mens. Morceau de Alain Bashung.<br>
+8.4. Avec le temps. ...<br>
+7.6. La Bohème. ...<br>
+8.0. Hymne à l'amour. <br>
+
 
 
 ![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/Celineconcert.jpg)
@@ -46,7 +48,9 @@ Recorded originally as a "low budget" project at Bob Blank's Blank Tape Studios[
 
 **BIENTÔT**
 
-Featuring concert tickets for top tours, festivals and more
+Featuring concert tickets for top tours, festivals and more <br>
+<br>
+
 222227 rue Saint-Jean, Québec QC 
 <!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
