@@ -4,9 +4,7 @@ Recorded originally as a "low budget" project at Bob Blank's Blank Tape Studios[
 
 ### Best seller
 
-![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/pizza1.jpg)
-
-## Albums
+![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/Celine1.jpg)
 
 # LOrem Ipsum 1
 8.3. Ne me quitte pas. Morceau de Jacques Brel.
@@ -17,6 +15,8 @@ Recorded originally as a "low budget" project at Bob Blank's Blank Tape Studios[
 8.4. Avec le temps. ...
 7.6. La Bohème. ...
 8.0. Hymne à l'amour.
+
+![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/album1.jpg)
 
 
 # LOrem Ipsum 2
@@ -40,7 +40,8 @@ Recorded originally as a "low budget" project at Bob Blank's Blank Tape Studios[
 7.6. La Bohème. ...
 8.0. Hymne à l'amour.
 
-![image]
+
+![Image](https://github.com/Anaisacornejo/AnaisaCornejo.github.io/blob/main/img/Celineconcert.jpg)
 
 
 **BIENTÔT**
